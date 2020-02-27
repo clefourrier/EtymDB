@@ -7,10 +7,10 @@ Previous versions available [here](https://team.inria.fr/almanach/etymdb/).
 You can reproduce all steps of data extraction by using the following commands on your [data dump of interest](https://dumps.wikimedia.org/enwiktionary/latest/). 
 
 ### Extract your data dump
-Download and extract the xml data dump that you want to use, and put it in data/source_dump/.
+Download and extract the xml data dump that you want to use, and put it in `data/`.
 
 ```
-tar -xvjf enwiktionary-latest-pages-articles.xml.bz2 
+tar -xvjf enwiktionary-date-pages-articles.xml.bz2 
 mv enwiktionary-date-pages-articles.xml data/
 ```
 
@@ -22,7 +22,7 @@ cat ../data/enwiktionary-date-pages-articles.xml | perl enwiktionary2xml.pl > ..
 cat ../data/enwiktionary.xml | perl etymology_analyser.pl > ../data/enwiktionary.csv
 ```
 
-### From csv to mini-csv
+### From csv to split csv
 From the data folder.
 
 ```

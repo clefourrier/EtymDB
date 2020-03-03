@@ -11,7 +11,7 @@ The extracted data belongs to 2536 languages, the most represented being English
 The "speakers" of the Wiktionary are its contributors, and there is have access to little metadata concerning them. About 5500 persons have contributed to the data dump used, among which two thirds are anonymous contributors. Since they are editing the English Wiktionary, it seems likely to assume that they speak English as a first or second language.
 
 ## D. "Curator demographic"
-The data was curated by the authors of the paper, both native French speakers bilingual in English. Since the authors are more familiar with European languages, it is likely that there was a small bias in data correction, as errors for languages of Europe was probably more likely to be detected in the analysis phases.
+The data was curated by the authors of the paper, both native French speakers bilingual in English, and with basic to professional knowledge of German, Spanish, Italian, Slovak, Polish, Czech, and scholar knowledge of Latin, Ancient Greek, as well as a limited expertise in Indo-European historical linguistics. Since the authors are more familiar with European languages, it is likely that there was a small bias in data correction, as errors for languages of Europe was probably more likely to be detected in the analysis phases.
 
 ## E. Speech situation N/A
 All the information in the used Wiktionary dump has been published between 2003 and 2019 by 5500 different persons.

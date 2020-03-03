@@ -48,13 +48,15 @@ awk 'NF == 3 { print $0 }' split_etymdb/etymdb_not_links_index.csv > split_etymd
 		- *etymdb\_links\_index*: Multiple parents relation ix, parent 1 ix, parent 2 ix, ... parent n ix
 
 - *extraction_scripts* contains all the scripts used for data extraction, included for reproducibility
+- *analysis_notebooks* contains 2 Jupyter notebooks to help you get a quick start with the database. One is the reproduction of part 7 of the paper
+- *static* contains images - documents - ...
 
 ## Citation
 ```
 @inproceedings{fourrier20,
   TITLE = {{Methodological Aspects of Developing and Managing an Etymological Lexical Resource: Introducing {EtymDB-2.0}}},
   AUTHOR = {Fourrier, Cl{\'e}mentine and Sagot, Beno{\^i}t},
-  BOOKTITLE = {{Twelfth International Conference on Language Resources and Evaluation (LREC 2018)}},
+  BOOKTITLE = {{Twelfth International Conference on Language Resources and Evaluation (LREC 2020)}},
   ADDRESS = {Marseilles, France},
   YEAR = {2020},
   NOTE = {(to appear)}

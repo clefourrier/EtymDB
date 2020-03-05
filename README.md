@@ -1,5 +1,5 @@
 # EtymDB 2.1 <img src="static/icon_white.png" width="6%">
-EtymDB 2.1 : An etymological database extracted from the Wiktionary (described in Methodological Aspects of Developing and Managing an Etymological Lexical Resource: Introducing EtymDB-2.0.
+EtymDB 2.1 : An etymological database extracted from the Wiktionary (described in Methodological Aspects of Developing and Managing an Etymological Lexical Resource: Introducing EtymDB-2.0).
 
 Previous versions available [here](https://team.inria.fr/almanach/etymdb/).
 

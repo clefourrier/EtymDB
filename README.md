@@ -58,5 +58,5 @@ awk 'NF == 3 { print $0 }' split_etymdb/etymdb_not_links_index.csv > split_etymd
   BOOKTITLE = {{Twelfth International Conference on Language Resources and Evaluation (LREC 2020)}},
   ADDRESS = {Marseilles, France},
   YEAR = {2020},
-  NOTE = {(to appear)}
+  PAGES = "3207--3216",
 }

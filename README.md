@@ -1,4 +1,4 @@
-# EtymDB 2.1 <img src="static/icon_white.png" width="6%">
+# EtymDB 2.1 <img src="static/icon.png" width="6%">
 EtymDB 2.1 : An etymological database extracted from the Wiktionary (described in Methodological Aspects of Developing and Managing an Etymological Lexical Resource: Introducing EtymDB-2.0).
 
 Previous versions available [here](https://team.inria.fr/almanach/etymdb/).
@@ -15,7 +15,7 @@ Previous versions available [here](https://team.inria.fr/almanach/etymdb/).
 
 - *extraction_scripts* contains all the scripts used for data extraction, included for reproducibility
 - *analysis_notebooks* contains 2 Jupyter notebooks to help you get a quick start with the database. One is the reproduction of part 7 of the paper
-- *static* contains images - documents - ...
+- *static* contains the logos
 
 ## Data extraction
 You can reproduce all steps of data extraction by using the following commands on your [data dump of interest](https://dumps.wikimedia.org/enwiktionary/latest/). 

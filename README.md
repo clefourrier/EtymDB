@@ -1,7 +1,8 @@
 # EtymDB 2.1 <img src="static/logo.png" width="6%">
 EtymDB 2.1 : An etymological database extracted from the Wiktionary (described in Methodological Aspects of Developing and Managing an Etymological Lexical Resource: Introducing EtymDB-2.0).
 
-Previous versions available [here](https://team.inria.fr/almanach/etymdb/).
+Previous versions available [here](https://team.inria.fr/almanach/etymdb/). 
+Logo upgraded by [Alix Chagué](https://alix-tz.github.io/).
 
 ## Organisation of the repo (and the base)
 - *data* 

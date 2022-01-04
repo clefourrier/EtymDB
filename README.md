@@ -53,11 +53,17 @@ awk 'NF == 3 { print $0 }' split_etymdb/etymdb_not_links_index.csv > split_etymd
 
 ## Citation
 ```
-@inproceedings{fourrier20,
-  TITLE = {{Methodological Aspects of Developing and Managing an Etymological Lexical Resource: Introducing {EtymDB-2.0}}},
-  AUTHOR = {Fourrier, Cl{\'e}mentine and Sagot, Beno{\^i}t},
-  BOOKTITLE = {{Twelfth International Conference on Language Resources and Evaluation (LREC 2020)}},
-  ADDRESS = {Marseilles, France},
-  YEAR = {2020},
-  PAGES = "3207--3216",
+@inproceedings{fourrier-sagot-2020-methodological,
+    title = "Methodological Aspects of Developing and Managing an Etymological Lexical Resource: Introducing {E}tym{DB}-2.0",
+    author = "Fourrier, Cl{\'e}mentine  and
+      Sagot, Beno{\^\i}t",
+    booktitle = "Proceedings of the 12th Language Resources and Evaluation Conference",
+    month = may,
+    year = "2020",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2020.lrec-1.392",
+    pages = "3207--3216",
+    ISBN = "979-10-95546-34-4",
 }
+```
